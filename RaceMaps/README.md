@@ -1,7 +1,7 @@
 
 #RaceMaps
 
-As part of the Red Eclipse community repository, this place is shall serve as a collection of unofficial maps for the  -Race** game mode.
+As part of the Red Eclipse community repository, this place is shall serve as a collection of unofficial maps for the  **Race** game mode.
 
 
 ##Before submitting a map
@@ -10,15 +10,22 @@ Please check the following points before adding new maps to this collection.
 
 * Does the map work with the current development version?
  - In particular: Does it have a **start checkpoint**?
-* Does the map have a proper license in <mapname>.txt?
- - Does this license allow to share the map here (with proper attribution)?
-* Is the map  -fun** to play? It does not have to be very polished, but it should add some value to the collection.
-* Is another version or some derivative work of this map already available?
- - If so, do the maps differ in such a way that both are worth playing?
-* Does the map have lighmaps?
- - If not, will it look better if you add some basic lighting?
+ - Does the map play well with the current impulse mechanics?
+* Does the map come with a *mapname*.txt?
+ - Does it provide a suitable license?
+ - Does the license allow to share the map here?
+ - Does it give proper attribution?
+*  Is the map  **fun** to play? 
+ - In contrast to the official maps, the race maps here do not have to be very polished.
+ - Even an ugly looking map can be okay, if it offers something unique and interesting.
+* Is there another version of this map? 
+ - Be sure to give attribution to the source material for remixes and derivative work
+ - If another version of a map is already available, does it differ in terms of game-play?
 * Are the file sizes reasonable?
  - In particular: Is the light precision reasonably coarse?
- - Are there garbage or duplicate lines in <mapname>.cfg? 
-* Is it hard to find the way?
- - If so, what about adding some **route** entities?
+ - Are there garbage or duplicate lines in *mapname*.cfg? 
+ - If a map has no lightmaps, will it look better with basic lighting?
+* Can the map easily be improved?
+ - Are there shortcuts that need to be fixed?
+ - If the path is difficult to find, what about adding some **route** entities?
+ - Will some turrets make gauntlet-race games more exciting?
